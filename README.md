@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sites.google.com/view/bryan-martins/portfolio" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1LvvUOgHe57ywynFPDDktyfUtpFogoYZf" alt="Banner com a frase: Qualidade, IA e Experiência Humana" width="100%"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEht1ppDCY3nw/profile-displaybackgroundimage-shrink_350_1400/B4DZ9c2Q_8J8AU-/0/1783969157719?e=1789603200&v=beta&t=HkaOKLBaapcjrWREBCfJBDVczAcGXnJa69kDzRUasis" alt="Banner com a frase: Qualidade, IA e Experiência Humana" width="100%"/>
   </a>
 </div>
 
